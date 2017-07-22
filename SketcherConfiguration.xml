@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<sketcher>
+<param name="colony size" value="5000" />
+<param name="step size" value="5" />
+<param name="T0" value="80.0" />
+<param name="T1" value="20.0" />
+<param name="Tgap" value="10.0" />
+<param name="Thatch" value="10.0" />
+<param name="jump radius" value="10" />
+<param name="max steps" value="200" />
+<param name="max jumps" value="7" />
+<param name="sharp turn threshold" value="45" />
+<param name="mark shape" value="line" />
+<param name="mark angle" value="45" />
+<param name="mark length" value="7" />
+<param name="mark thickness" value="1" />
+<param name="ants per execution" value="5000" />
+<param name="directed draw" value="true" />
+<param name="color copy" value="0" />
+<param name="ants per refresh" value="50" />
+<param name="marking behavior" value="0" />
+
+<!--
+<param name="color" value="0" /> : copy RGB
+<param name="color" value="1" /> : gray scale from luminance
+
+<param name="marking behavior" value="0" /> : edge drawing
+<param name="marking behavior" value="1" /> : filling and hatching
+-->
+
+</sketcher>

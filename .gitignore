@@ -1,3 +1,14 @@
+debug.txt
+/Debug
+/Release
+*.ncb
+*.user
+*.suo
+Thumb.db
+*.psd
+*.pdf
+
+
 # Prerequisites
 *.d
 
